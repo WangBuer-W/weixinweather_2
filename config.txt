@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-01-05",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "今天也很想你呢 真希望时间过得快快的 好早点见到你 ❤❤❤❤❤ 爱你!",
+"note_ch": "猪猪啊 要天天开心哦 不能emo 才是乖宝宝哟  每天都是新的爱你的一天呢!",
 # 金句英文
-"note_en": "I miss you very much today. I really hope the time passes quickly so that I can see you soon. ❤❤❤❤❤ love you!"
+"note_en": "My dear. Be happy everyday and never Do Not emo is a good baby. Every day is a new day to love you"
 }
