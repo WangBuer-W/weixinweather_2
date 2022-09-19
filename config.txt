@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-01-05",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "思念如马 自别离 未停蹄 想你",
+"note_ch": "早上好呀，今天又是元气满满的一天哦，加油加油，一起努力哟",
 # 金句英文
-"note_en": "Missing is like a horse, never stopping from parting.Miss you！"
+"note_en": "Good morning. Today is another day full of vitality. study hard and work hard together！"
 }
