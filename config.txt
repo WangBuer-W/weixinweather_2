@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2021-01-05",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "早上好呀，今天是你的生日哦，小笨蛋，我怎么会不给你礼物嘛！祝你生日快乐，爱你哦",
+"note_ch": "早上好呀，今天又回归了哦，今天又是爱你的一天呢。爱你哦",
 # 金句英文
-#"note_en": "Good morning. Today is your birthday. why didn't I give you a gift! Happy birthday and love you！"
+"note_en": "Good morning, I'm back today. Today is another day to love you. Love you！"
 }
